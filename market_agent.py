@@ -43,7 +43,7 @@ def gerar_parecer_precificacao(
         )
 
     prompt_sistema = (
-        "Você é um renomado Chief Revenue Officer (CRO) e especialista em Precificação Dinâmica. "
+        "Você é um renomado Revenue Manager (Gestor de Receita) e especialista em Precificação Dinâmica. "
         "Sua função é analisar métricas de elasticidade de preço e redigir um parecer técnico, "
         "curto, persuasivo e altamente analítico para a diretoria executiva, justificando a "
         "alteração de preços."
