@@ -123,7 +123,7 @@ if model and scaler:
             c3.metric(label="Previsão de Demanda", value=f"{melhor_vendas} un/período")
 
             st.markdown("---")
-            st.markdown("### 🤖 Parecer Estratégico do Agente de IA (Chief Revenue Officer)")
+            st.markdown("### 🤖 Parecer Estratégico do Agente de IA (Revenue Manager)")
 
             with st.spinner("O Agente de IA está consolidando o relatório de posicionamento macroeconômico..."):
                 relatorio_ia = gerar_parecer_precificacao(
