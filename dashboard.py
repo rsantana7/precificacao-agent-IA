@@ -8,7 +8,7 @@ st.set_page_config(page_title="IA Dynamic Pricing", page_icon="💰", layout="wi
 
 st.title("💰 Inteligência de Mercado & Precificação Dinâmica")
 st.subheader("Otimização de Margem de Lucro com Machine Learning & Agente de Receita AI")
-st.caption("Versão Streamlit Cloud — chave da API lida de st.secrets")
+# st.caption("Versão Streamlit Cloud — chave da API lida de st.secrets")
 st.markdown("---")
 
 
