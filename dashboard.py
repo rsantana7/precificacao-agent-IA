@@ -59,7 +59,7 @@ if model and scaler:
             <br>
             <span style="color: #000000; font-weight: bold;"> Renata LC Santana</span>
             <br>
-            <span>Cientista de Dados | Machine Learning |  IA Generativa | LLMs | RAG | Agentes IA | Agile Project Management</span>
+            <span> AI First | IA Generativa  |  LLMs  |  RAG |  Agentes IA |  APIs |  Machine Learning </span>
         </div>
 
         """, 
